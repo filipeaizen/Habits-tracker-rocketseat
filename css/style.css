@@ -11,9 +11,13 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 48px;
+    position: fixed;
+    width: 100%;
+    z-index: 0;
 }
 form{
     display: flex;
+    padding: 138px;
 }
 .days{
     display: flex;
