@@ -14,10 +14,12 @@ header{
     position: fixed;
     width: 100%;
     z-index: 0;
+    background-color: #09090A;
 }
 form{
     display: flex;
     padding: 138px;
+    width: fit-content;
 }
 .days{
     display: flex;
@@ -74,4 +76,10 @@ input{
 input:checked{
     background-color: #A78BFA;
     border: 2px solid #8B5CF6;
+}
+
+@media (max-width:570px){
+    button div{
+        display: none;
+    }
 }
