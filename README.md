@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits Tracker é um programa gratuito para você começar a ter novos hábitos no seu dia a dia.
 
+- [Visite o projeto online](https://filipeaizen.github.io/Habits-tracker-rocketseat)
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/O4ZOfGuiLuCkCVf3US63CL/Habits-(e)-(Community)?node-id=6%3A344&t=DrNjSwMx9fQQloUm-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
